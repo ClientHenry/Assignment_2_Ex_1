@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "498332151107",
+    "firebase_url": "https://assignment2ex-default-rtdb.firebaseio.com",
+    "project_id": "assignment2ex",
+    "storage_bucket": "assignment2ex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498332151107:android:2e8b4bb2eec8d73255d3f6",
+        "android_client_info": {
+          "package_name": "com.example.assignment_2_ex_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDApiYxn0MoqIi3uPnw2-3Up3kr5N39Eyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
